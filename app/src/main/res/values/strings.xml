@@ -6,8 +6,8 @@
 
     <string-array name="circuito">
         <item> ¿Que hacer? </item>
-        <item> ¿Donde Comprar? </item>
-        <item> Visita a la Iglesia </item>
+        <item> Alta Gracia - a 15 km </item>
+        <item> Carlos Paz . a 48 km  </item>
         <item> CIRCUITO DEL SOL </item>
         <item> CIRCUITO VERDE </item>
         <item> CIRCUITO DEL RÍO </item>
@@ -78,10 +78,10 @@
 
     <!-- **************** CIRCUITO LUNAR  ****************** -->
     <string-array name="circuitolunar_titulo">
-        <item>Kiosco El chupetín.</item>
-        <item>Puesto de Javier y Jose.</item>
-        <item>Kiosco De Clyde</item>
-        <item>Supermercado el delfín</item>
+        <item>Museo del Che Guevara.</item>
+        <item>Museo Nacional Estancia Jesuítica de Alta Gracia y Casa del Virrey Liniers.</item>
+        <item>Estancia Jesuítica Santa Catalina.</item>
+        <item>El tajamar.</item>
     </string-array>
 
     <string-array name="circuitolunar_geo">
@@ -92,10 +92,10 @@
     </string-array>
 
     <string-array name="circuitolunar_contenido">
-        <item>A solo 40 metros de la hostería.</item>
-        <item>A solo 10 metros de la hostería.</item>
-        <item>A solo 2 cuadras de la hostería.</item>
-        <item>A solo 4 km de la hostería.</item>
+        <item>calle Avellaneda 501 dentro del barrio Carlos Pellegrini.</item>
+        <item>Av. Padre Viera 41, Alta Gracia, Córdoba.</item>
+        <item>En la localidad de Ascochinga</item>
+        <item>en el centro del pueblo, cerca del reloj ingles.</item>
     </string-array>
 
     <string-array name="circuitolunar_contenido_completo">
