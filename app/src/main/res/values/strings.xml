@@ -109,35 +109,59 @@
     <!-- **************** RUTA DEL VINO  ****************** -->
 
     <string-array name="rutadelvino_titulo">
-        <item>Bodegas La Guarda</item>
-        <item>Champañera Miguel Mas</item>
-        <item>Bodegas y Viñedos Fabril Alto Verde</item>
-        <item>Las Marianas Bodega Familiar</item>
-        <item>Viñas de Segisa</item>
+        <item>Parque Pekos</item>
+        <item>Complejo Aerosilla Carlos Paz</item>
+        <item>Parque Nacional Quebrada del condorito</item>
+        <item>Lago San Roque</item>
+        <item>Plaza Federal</item>
     </string-array>
 
     <string-array name="rutadelvino_geo">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item> a 48 km de la hosteria.</item>
+        <item>a 48 km de la hosteria.</item>
+        <item>a 48 km de la hosteria.</item>
+        <item>a 48 km de la hosteria.</item>
+        <item>a 48 km de la hosteria.</item>
     </string-array>
 
     <string-array name="rutadelvino_contenido">
-        <item>Es una bodega de arquitectura clásica a la que se le incorporó ele-mentos tecnológicos...</item>
-        <item>En 1998 el ingeniero Miguel Más crea la champañera en la que se ...</item>
-        <item>Las instalaciones de Fabril Alto Verde permiten ser visitadas por turistas, clientes...</item>
-        <item>La degustación de vinos exclusivos obtenidos con control...</item>
-        <item>Se caracteriza por ser la primera bodega boutique de San Juan</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
     </string-array>
 
     <string-array name="rutadelvino_contenido_completo">
-        <item>Es una bodega de arquitectura clásica a la que se le incorporó ele-mentos tecnológicos, actualmente utilizados para la elaboración de vinos de alta calidad a nivel internacional. Los viñedos están ubicados a 55 km de la capital de la provincia de San Juan, en el departamento Sarmiento, zona del Valle de Tulum. Interesante zona para el cultivo de la vid, a 750 metros sobre el nivel del mar y a pocos kilómetros de la precordillera de los Andes posee condiciones características de las zonas cálidas y áridas que acompaña a las añadas, otorgándole sus distintos caracteres a cada variedad cultivada.</item>
-        <item>En 1998 el ingeniero Miguel Más crea la champañera en la que se elaboran a partir de las frutas obtenidas en la huerta, vinos, vinos espumantes, aceto balsámico y vinagre orgánico de excelente calidad que son certificados por empresas de reconocida trayectoria internacional. Este emprendimiento familiar está ubicado en una zona de excepcional fertilidad, rodeada de montañas y regada por aguas del deshielo provenientes de la Cordillera de Los Andes.</item>
-        <item>Las instalaciones de Fabril Alto Verde permiten ser visitadas por turistas, clientes, enófilos y público en general. En el recorrido por la bodega el visitante se llevará una idea muy acabada de las distintas etapas de elaboración de los vinos en sus diversos tipos y espumantes. La visita culmina con una degustación en el elegante wine bar, dirigida por una experta degustadora quien nos enseñará detalles y pequeños secretos que debemos tener en cuenta a la hora de valorar un vino.</item>
-        <item>La degustación de vinos exclusivos obtenidos con control personalizado desde la producción, cosecha y elaboración, y un paseo por la antigua bodega con sus maquinarias del año 1920 harán de su visita un agradable recorrido por la historia y evolución de una actividad tan arraigada al sentimiento de los habitantes de estas tierras</item>
-        <item>Se caracteriza por ser la primera bodega boutique de San Juan. Un salón de principios de siglo pasado totalmente renovado, sus cavas subterráneas, sus barricas de roble y hermosos viñedos le permitirán al visitante disfrutar, conocer y descubrir el mágico mundo del vino. Viñas de Segisa propone vivir la historia y los procesos de elaboración, y aprender a degustar vinos en forma gratuita. A menudo se realizan, además, en la bodega, espectáculos artísticos para hacer esta experiencia aun más especial.</item>
+        <item>
+            ofrece a sus visitantes una experiencia única, que combina el disfrute y aprendizaje de la naturaleza con la emoción de las más divertidas atracciones y juegos Un lugar especialmente diseñado para brindar esparcimiento, recreación y seguridad a toda la familia.
+            Teléfono: 03541 42-6160.
+            Ubicación: Ruta Nacional 38, Villa Santa cruz del Lago, X5152 Villa Carlos Paz, Córdoba.
+            Horario de atención: viernes a domingos de 10 a 18 hs.
+            web: pekosmultiparque.com
+        </item>
+        <item>
+            Un lugar muy agradable, con amplias posibilidades, desde subir el cerro de la cruz, comer alguna minuta, compras, mini parque de agua con toboganes, tobogán gigante, aerosilla, tirolesa, arquería etc.
+            Es destacable el buen mantenimiento de todas las instalaciones en general (hasta los baños de acceso libre, son limpiado periódicamente).
+            Otro punto a destacar son las medidas de seguridad tanto de la aerosilla, como de la tirolesa.
+            Ubicación: Florencio Sanchez s/n, 5152 Villa Carlos Paz, Córdoba.
+            horario de atención: todos los días de 10 a 22 hs.
+            teléfono: 03541 42-2254
+        </item>
+        <item>
+            El Parque Nacional Quebrada del Condorito es un área protegida federal en la provincia de Córdoba, Argentina. Establecido el 28 de noviembre de 1996, alberga una muestra representativa de la biodiversidad de las Sierras Pampeanas en estado de conservación en peligro de extinción.
+            horario de atención: todos los días de 9 a 19 hs.
+            teléfono: 03541 48-4511.
+        </item>
+        <item>
+          El lago San Roque es un embalse en la provincia de Córdoba, Argentina. Fue creado por el represamiento de varios ríos, especialmente el Suquía y el Cosquín. Está ubicado al lado de la ciudad de Villa Carlos Paz, a unos 600 m sobre el nivel del mar. Wikipedia
+        </item>
+        <item>
+            dirección: Ruta 73, Bialet Massé, Córdoba.
+            horario de atención: siempre abierto.
+            teléfono: 0351-434-1200.
+        </item>
+
     </string-array>
 
     <!-- **************** CIRCUITO DEL SOL  ****************** -->
