@@ -10,7 +10,7 @@
         <item> Carlos Paz . a 48 km  </item>
         <item> Río Ceballos a 90 km</item>
         <item> Córdoba Capital a 60 km </item>
-        <item> CIRCUITO DEL RÍO </item>
+        <item> Pasando las Altas Cumbres </item>
     </string-array>
 
     <!-- **************** CIRCUITO CHICO  ****************** -->
@@ -41,11 +41,11 @@
         <item>A solo 3 cuadras de la Hostería se encuentra la mejor playa, sin música, con poca gente, es de difícil acceso, ya que hay que cruzar el río, y dar la vuelta caminando a la sierra que se encuentra al frente de la hostería.</item>
         <item>A solo 3 cuadras de la Hostería La Porteña. Es necesario volver por la Av. principal y desde la hostería hacer 1 cuadra hasta la proxima esquina, y doblar a la izquierda. Seguir derecho y al final de la calle se encuentra la capila.</item>
         <item>El parque La Serranita es un emprendimiento pensado para las familias y su recreación al aire libre. Esta situado en un entorno muy natural con construcciones en tronco y piedra. Hay actividades para todas las edades y un patio de comidas. La ubicación tiene gran accesibilidad por la ruta provincial N°5 a solo 50 kilómetros de la ciudad de Córdoba y 15 kilómetros de Alta Gracia.\n
-\n•\tHorario de visitas:
-\nSábados, Domingos y Feriados de 10:00 a 20:00
-\nTarifas:
-\nPase General = 200 pesos, Pase Serrano = 250 pesos, Menores de 5 años, gratis.
-\n</item>
+            \n•\tHorario de visitas:
+            \nSábados, Domingos y Feriados de 10:00 a 20:00
+            \nTarifas:
+            \nPase General = 200 pesos, Pase Serrano = 250 pesos, Menores de 5 años, gratis.
+            \n</item>
         <item>
             El Museo Nacional Estancia Jesuítica de Alta Gracia y Casa del Virrey Liniers es un museo de la ciudad de Alta Gracia, provincia de Córdoba, que se encuentra ubicado en lo que fuera la residencia jesuítica del siglo XVII, que formaba parte de la Estancia de Alta Gracia. En el año 2000 fue declarado Patrimonio de la Humanidad por la UNESCO.
             \n•\tDirección: Av. Padre Domingo Viera 41 esq. Paseo de la Estancia, Alta Gracia, Argentina .\n
@@ -270,31 +270,27 @@ Para que pueda efectuar el pago de sus facturas de manera rápida y fácil, uste
     <!-- **************** CIRCUITO DEL RÍO  ****************** -->
 
     <string-array name="circuitodelrio_titulo">
-        <item>Calingasta</item>
-        <item>Barreal</item>
-        <item>Pampa El Leoncito</item>
-        <item>Reserva Astronómica El Leoncito</item>
+        <item>Museo Rocsen</item>
+        <item>Casino de Mina Clavero</item>
+        <item>Parque AcquaLandia</item>
     </string-array>
 
     <string-array name="circuitodelrio_geo">
         <item></item>
         <item></item>
         <item></item>
-        <item></item>
     </string-array>
 
     <string-array name="circuitodelrio_contenido">
-        <item>Ubicado a 1.500 mts. de altura sobre el nivel del mar, es un lugar que, por su paisaje...</item>
-        <item>Barreal es la villa turística de este sector. Enmarcado por la cercana presencia de ..</item>
-        <item>Se trata de una increíble planicie arcillosa blanquecina, casi sin declive, resto de...</item>
-        <item>Con una extensión de 76.000 hectáreas, este privilegiado lugar posee un cielo ...</item>
+        <item>a 147 km de la hostería</item>
+        <item>a 138 km de la hostería</item>
+        <item>a 139 km de la hostería</item>
     </string-array>
 
     <string-array name="circuitodelrio_contenido_completo">
-        <item>Ubicado a 1.500 mts. de altura sobre el nivel del mar, es un lugar que, por su paisaje, ríos, montañas, valles, lo quebrado del terreno, la flora, la fauna, y el cielo límpido poblado de estrellas deslumbra en cualquier época del año. Entre sus mayores atractivos se encuentra el Cerro Alcázar, una caprichosa formación de rocas que recuerdan al famoso Alcázar español.</item>
-        <item>Barreal es la villa turística de este sector. Enmarcado por la cercana presencia de la Cordillera de los Andes y caracterizado por las típicas alamedas que bordean sus calles, cuenta con una variada oferta de alojamientos y atracciones turísticas. Pesca, trekking, cabalgatas, travesías 4x4 en alta cordillera y enduro son algunas de las actividades que pueden realizarse.</item>
-        <item>Se trata de una increíble planicie arcillosa blanquecina, casi sin declive, resto de antigua cuenca lacustre, que tiene 14 km de largo por 4 km de ancho. Estas características, sumadas al constante viento que sopla en el lugar, hacen de El Leoncito una pista perfecta para la práctica del Carrovelismo, deporte no convencional que se practica con autos a vela (wind-cars) que corren empujados por el viento, cuya velocidad, cuadruplicada por la vela, puede alcanzar más de 135 km/h.</item>
-        <item>Con una extensión de 76.000 hectáreas, este privilegiado lugar posee un cielo tan claro y limpio que permite la observación de los astros en un promedio de más de 275 noches por año. Dentro de la reserva se encuentra el Complejo Astronómico El Leoncito, ubicado a 2.552 metros sobre el nivel del mar y equipado con un telescopio de alta complejidad, y la Estación Astronómica Carlos Cesco, que posee características técnicas que lo hacen uno de los más importantes del hemisferio sur.</item>
+        <item>es un museo ubicado en Nono, provincia de Córdoba, Argentina, a 8 km de Mina Clavero. Fue establecido en 1969 y presenta una colección "multifacética" de más de 18,000 piezas, con historia natural, objetos arqueológicos y decorativos de todo el mundo. Teléfono de contacto: 03544 - 498218 o 03544 - 15 - 570148</item>
+        <item>Ubicación: Olmos esq. Costanera, Mina Clavero, Argentina Teléfono: +54 3544 47-0082.</item>
+        <item>Ubación: Mina Clavero. Es un lindo lugar para visitar con niños. Hay mucha gente pero se puede disfrutar igual. Los juegos son lindos y la naturaleza que rodea el lugar ayuda a relajarse.  </item>
     </string-array>
 
 </resources>
